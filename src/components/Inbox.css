@@ -1,0 +1,38 @@
+.dot {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot-w{
+    background-color:hsl(167deg 100% 37%);
+   }
+   .dot-d{
+    background-color:hsl(346deg 91% 58%);
+   }
+   .dot-a{
+    background-color:hsl(180deg 100% 40%);
+   }
+   .dot-s{
+    background-color:hsl(0deg 0% 40%);
+   }
+   .dot-c{
+    background-color:hsl(36deg 93% 64%);
+   }
+   *{
+      font-size:small;
+     
+   }
+ .list-group-flush{
+     background-color:#f3f3f4;
+ }
+ .left{
+    background-color:#f3f3f4;
+ }
+ .list-group-item{
+    background-color:#f3f3f4 !important;
+ }
+   .searchmail{
+      float: right;
+   }
+
